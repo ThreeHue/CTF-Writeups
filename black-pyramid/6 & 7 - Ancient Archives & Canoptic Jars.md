@@ -52,6 +52,8 @@ Collected
 
 # 7 Writeup – The Canoptic Jars of Osiris
 
+Author: Magnus Eriksson
+
 | Challenge Name: | Category | Difficulty & stats |
 | --- | --- | --- |
 | The Canoptic Jars of Osiris | Extra / Obfuscation | 200points and 19 solves at finish |
