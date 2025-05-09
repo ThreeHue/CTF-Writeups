@@ -1,10 +1,9 @@
 ## **Tomb Raiders**
-
+Made by: Mikael Lindström
   
 Nothing seem familiar and everything seem complicated... Try to play the videogame and trying to find cheats, there is no success. Cost/benefit analysis of trying to find some actual useful information from the internet or LLM that both apply for this case and is on a level I can easily learn during an evening and also have time doing more challanges.  
-Proceed to other challanges  
-<br/>Same opening moves as the other two. This one more familiar than Tomb Raiders, not as clear as Temple. I look through what I can easily access, as I don't find anything I start researching what path traversal is. Realize this is a familiar idea. The time is now late, I forgot to eat dinner and need sleep. If I want to give it a try and learn how to do path traversal exploits, that will be done in the morning or later.  
-Promptly forget about the challange when going to slepp. Yet again, another lesson to do actual documentation and not forget fun sounding challanges until a day after the close of CTF and doing a post mortem about it all.
+Proceeding to other challanges  
+
 
 * * *
 
