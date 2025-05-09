@@ -8,7 +8,7 @@ Proceeding to other challanges
 * * *
 
 ## **Tomb of the God of Mischief**
-
+Made By: Adam Tewodros
   
 I spent many hours on this with the only conclusion and worthwhile takeaways being along the lines of:
 
@@ -21,7 +21,8 @@ I spent many hours on this with the only conclusion and worthwhile takeaways bei
 
 The VM being used was assumed cursed by the god of mischief and was eventually and emphatically nuked. All documentation and screenshots went down with the ship
 
-# 7 Writeup – The Pharaoh’s Dashboard
+# Writeup – The Pharaoh’s Dashboard
+Made by: Mikael Lindström
 
 | Challenge Name: | Category | Difficulty & stats |
 | --- | --- | --- |
