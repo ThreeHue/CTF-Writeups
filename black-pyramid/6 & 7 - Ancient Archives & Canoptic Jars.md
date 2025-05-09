@@ -1,5 +1,6 @@
 ## 6 Writeup – Ancient Archives of Egypt
 
+Made by Adam Tewodros
 * * *
 
 | Challenge Name: | Category | Difficulty & stats |
