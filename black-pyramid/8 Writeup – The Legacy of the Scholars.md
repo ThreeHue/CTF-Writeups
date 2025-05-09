@@ -1,5 +1,7 @@
 # 8 Writeup – \*The Legacy of the Scholars\* (SQL Injection Challenge)
 
+Challenge made by: Cathleene Sandgren
+
 | Challenge Name: | Category | Difficulty & stats |
 | --- | --- | --- |
 | The Legacy of the Scholars (TLoS) | SQL Injection | Medium 244point and 9 solves at finish |
