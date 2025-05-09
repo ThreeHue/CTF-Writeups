@@ -1,3 +1,7 @@
+Made by: Mikael Lindström
+(The problems were no fault of the author of the challange, I stumbled opon a PEBKAC-error)
+
+
 A writeup of this challenge was difficult and will not follow the other format. It will be abridged and general
 
 Having heard what SQLi was this was the first I decided to try it out, speed and progress was prioritized  
